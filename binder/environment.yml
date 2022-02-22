@@ -2,9 +2,6 @@ name: ccfcs
 channels:
   - defaults
 dependencies:
-  - conda-forge
-  - defaults
   - python=3.9.7
-  - setuptools
 
 prefix: /Users/ira/miniconda/envs/ccfcs
