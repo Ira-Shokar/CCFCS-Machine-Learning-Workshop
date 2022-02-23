@@ -1,16 +1,22 @@
 #!/bin/bash
 # File to be ran after environment is built to download data for user
 
-mkdir ~/data/ #create directory to store data
+#create directory to store data
+mkdir ~/data/ 
+
+# You can copy everything in the block below and just change the subdirectory and FILEID:
 
 ### Download example begin ###
 
 # create subdirectory for deep learning section
 mkdir ~/data/deep_learning/ 
+
 # Change to target directory
 cd ~/data/deep_learning/
-# Download the data from GDrive using following format:
+
+# Download the data from GDrive using following format for url of form:
+# https://drive.google.com/file/d/FILEID/view?usp=sharing - 
 # wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=FILEID' -O FILENAME
 wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=1gR4EP9cCE3iVlWS371mtT_bS0DMJvhBv' -O example_jet.csv
 
-### Download example end ###
+### Download example ends ###
