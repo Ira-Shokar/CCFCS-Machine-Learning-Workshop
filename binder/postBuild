@@ -9,7 +9,8 @@ mkdir ~/data/ #create directory to store data
 mkdir ~/data/deep_learning/ 
 # Change to target directory
 cd ~/data/deep_learning/
-# Download the data from GDrive
-wget https://drive.google.com/file/d/1gR4EP9cCE3iVlWS371mtT_bS0DMJvhBv/view?usp=sharing
+# Download the data from GDrive using following format:
+# wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=FILEID' -O FILENAME
+wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=1gR4EP9cCE3iVlWS371mtT_bS0DMJvhBv' -O example_jet.csv
 
 ### Download example end ###
