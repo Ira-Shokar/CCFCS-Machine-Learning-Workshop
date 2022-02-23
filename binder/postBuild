@@ -6,9 +6,9 @@ mkdir ~/data/ #create directory to store data
 ### Download example begin ###
 
 # create subdirectory for deep learning section
-mkdir ~/data/deep_learning 
+mkdir ~/data/deep_learning/ 
 # Change to target directory
-cd ~/data/deep_learning
+cd ~/data/deep_learning/
 # Download the data from GDrive
 wget https://drive.google.com/file/d/1gR4EP9cCE3iVlWS371mtT_bS0DMJvhBv/view?usp=sharing
 
