@@ -1,10 +1,12 @@
 #!/bin/bash
 # File to be ran after environment is built to download data for user
 
+mkdir ~/data/ #create directory to store data
+
 ### Download example begin ###
 
-#create directory to store data as well as subdirectory for deep learning section
-mkdir data/deep_learning 
+# create subdirectory for deep learning section
+mkdir ~/data/deep_learning 
 # Change to target directory
 cd ~/data/deep_learning
 # Download the data from GDrive
