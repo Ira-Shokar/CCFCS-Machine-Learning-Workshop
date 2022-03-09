@@ -23,6 +23,5 @@ wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=1gR4E
 cd ../../
 mkdir ~/climate_net/
 cd ~/climate_net/
-wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=13G5bgaJKBNFwqxbz4ucBj6HaQjhY6oAU' -O test.nc
-
+wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=13G5bgaJKBNFwqxbz4ucBj6HaQjhY6oAU' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=13G5bgaJKBNFwqxbz4ucBj6HaQjhY6oAU" -O test.nc && rm -rf /tmp/cookies.txt
 ### Download example ends ###
