@@ -5,7 +5,6 @@ certifi
 charset-normalizer 
 cycler 
 cmocean
-cartopy
 flatbuffers 
 fonttools 
 gast 
