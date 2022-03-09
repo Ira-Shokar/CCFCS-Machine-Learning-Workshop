@@ -4,6 +4,8 @@ cachetools
 certifi 
 charset-normalizer 
 cycler 
+cmocean
+cartopy
 flatbuffers 
 fonttools 
 gast 
@@ -21,6 +23,7 @@ libclang
 Markdown 
 matplotlib 
 numpy 
+netCDF4
 oauthlib 
 opt-einsum 
 packaging 
@@ -45,4 +48,5 @@ typing_extensions
 urllib3 
 Werkzeug 
 wrapt 
+xarray
 zipp 
