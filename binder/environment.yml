@@ -3,6 +3,7 @@ channels:
   - defaults
 dependencies:
   - python=3.9.7
+  - cartopy
   - pip:
     - -r requirements.txt
 
