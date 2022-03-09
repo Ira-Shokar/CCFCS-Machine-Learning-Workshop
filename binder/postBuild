@@ -19,4 +19,10 @@ cd ~/data/deep_learning/
 # wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=FILEID' -O FILENAME
 wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=1gR4EP9cCE3iVlWS371mtT_bS0DMJvhBv' -O example_jet.csv
 
+#Download climatenet data 
+cd ../../
+mkdir ~/climate_net/
+cd ~/climate_net/
+wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=13G5bgaJKBNFwqxbz4ucBj6HaQjhY6oAU' -O test.nc
+
 ### Download example ends ###
