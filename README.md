@@ -16,5 +16,5 @@ To get a quick start guide on what Google Colab can offer click [here](https://c
 
 ---
 
-## Click open the challenge notebook in [Google Colab](https://colab.research.google.com/?utm_source=scs-index): [![Open Notebook 3. Intro into Deep Learning Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/main/notebooks/colab-github-demo.ipynb)
+## Click open the challenge notebook in Colab: [![Open Notebook 3. Intro into Deep Learning Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/main/notebooks/colab-github-demo.ipynb)
 
