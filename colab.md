@@ -1,4 +1,4 @@
-# To open the notebooks in Google Colab click the following links below:
+# To open the notebooks in [Google Colab](https://colab.research.google.com/?utm_source=scs-index) click the following links below:
 
 Open Notebook 1. Data Loading In Colab: [![Open Notebook 1. Data Loading In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/main/notebooks/colab-github-demo.ipynb)
 
