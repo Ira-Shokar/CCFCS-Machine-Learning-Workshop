@@ -12,7 +12,7 @@
 
 ---
 
-## Add symbolic link to data, to be visable by Google Colab:
+## Add symbolic link to data, to be visible by Google Colab:
 
 1. First click this [link](https://drive.google.com/drive/folders/1mk7xIuzHHqcTnIxn9_AqmywArVoBW6gJ?usp=sharing). 
 2. You may have to first sign into GDrive using the blue button in the top right hand corner that says `Sign in`. 
