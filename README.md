@@ -2,11 +2,13 @@
 
 ## Click to launch the notebooks using the integrated environent: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ira-Shokar/CCFCS-Machine-Learning-Workshop/HEAD)
 
+## Add link to data to be visable by Google Colab:
+
+First click this [link](https://drive.google.com/drive/folders/1mk7xIuzHHqcTnIxn9_AqmywArVoBW6gJ?usp=sharing). You may have to first sign into GDrive using the blue button in the top right hand corner that says 'Sign in'. One you have signed in, right click on the folder `climate_net` and select `Add a shortcut to Drive` and click `Add Shortcut` if the blue banner is highlighting `My Drive`, if it isnt, just click on `My Drive` and then select `Add Shortcut`.
+
 ---
 
 ## To open the notebooks in [Google Colab](https://colab.research.google.com/?utm_source=scs-index) click the following links below:
-
-First click this [link](https://drive.google.com/drive/folders/1mk7xIuzHHqcTnIxn9_AqmywArVoBW6gJ?usp=sharing). You may have to first sign into GDrive. 
 
 - Open Notebook 1. Data Loading In Colab: [![Open Notebook 1. Data Loading In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ira-Shokar/CCFCS-Machine-Learning-Workshop/blob/main/data_loading.ipynb)
 
