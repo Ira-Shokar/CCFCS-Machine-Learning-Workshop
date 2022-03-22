@@ -4,7 +4,9 @@
 
 ## Add link to data to be visable by Google Colab:
 
-First click this [link](https://drive.google.com/drive/folders/1mk7xIuzHHqcTnIxn9_AqmywArVoBW6gJ?usp=sharing). You may have to first sign into GDrive using the blue button in the top right hand corner that says 'Sign in'. One you have signed in, right click on the folder `climate_net` and select `Add a shortcut to Drive` and click `Add Shortcut` if the blue banner is highlighting `My Drive`, if it isnt, just click on `My Drive` and then select `Add Shortcut`.
+1. First click this [link](https://drive.google.com/drive/folders/1mk7xIuzHHqcTnIxn9_AqmywArVoBW6gJ?usp=sharing). 
+2. You may have to first sign into GDrive using the blue button in the top right hand corner that says 'Sign in'. 
+3. One you have signed in, right click on the folder `climate_net` and select `Add a shortcut to Drive` and click `Add Shortcut` if the blue banner is highlighting `My Drive`, if it isnt, just click on `My Drive` and then select `Add Shortcut`.
 
 ---
 
