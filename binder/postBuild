@@ -1,5 +1,4 @@
 #!/bin/bash
-# File to be ran after environment is built to download data for user
 
-cd ~/climate_net/
-wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=13G5bgaJKBNFwqxbz4ucBj6HaQjhY6oAU' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=13G5bgaJKBNFwqxbz4ucBj6HaQjhY6oAU" -O test.nc && rm -rf /tmp/cookies.txt
+# File to be ran after environment is built to download data for user
+wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=13G5bgaJKBNFwqxbz4ucBj6HaQjhY6oAU' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=13G5bgaJKBNFwqxbz4ucBj6HaQjhY6oAU" -O ~/climate_net/test.nc && rm -rf /tmp/cookies.txt
