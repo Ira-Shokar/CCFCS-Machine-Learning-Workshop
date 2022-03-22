@@ -2,25 +2,10 @@
 # File to be ran after environment is built to download data for user
 
 #create directory to store data
-mkdir ~/data/ 
+#mkdir ~/data/ 
+mkdir ~/climate_net/
 
 # You can copy everything in the block below and just change the subdirectory and FILEID:
-
-### Download example begin ###
-
-# create subdirectory for deep learning section
-mkdir ~/data/deep_learning/ 
-
-# Change to target directory
-cd ~/data/deep_learning/
-
-# Download the data from GDrive using following format for url of form:
-# https://drive.google.com/file/d/FILEID/view?usp=sharing - 
-# wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=FILEID' -O FILENAME
-wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=1gR4EP9cCE3iVlWS371mtT_bS0DMJvhBv' -O example_jet.csv
-
-#Download climatenet data 
-cd ../../
 mkdir ~/climate_net/
 cd ~/climate_net/
 wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=13G5bgaJKBNFwqxbz4ucBj6HaQjhY6oAU' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=13G5bgaJKBNFwqxbz4ucBj6HaQjhY6oAU" -O test.nc && rm -rf /tmp/cookies.txt
