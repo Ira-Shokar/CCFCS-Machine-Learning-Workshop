@@ -3,7 +3,7 @@
   <img src="climate_net/img/cam.png" width="100" />
 </p>
 
-# CCfCS ML for Climate Science Workshop - 23rd March 2022
+# [CCfCS](https://www.climatescience.cam.ac.uk) ML for Climate Science Workshop - 23rd March 2022
 
 <body>
 
