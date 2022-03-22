@@ -2,6 +2,8 @@
 
 ## Click to launch the notebooks using the integrated environent: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ira-Shokar/CCFCS-Machine-Learning-Workshop/HEAD)
 
+---
+
 ## Add link to data to be visable by Google Colab:
 
 1. First click this [link](https://drive.google.com/drive/folders/1mk7xIuzHHqcTnIxn9_AqmywArVoBW6gJ?usp=sharing). 
