@@ -1,4 +1,11 @@
-# CCFCS-Machine-Learning-Workshop
+<img style="float: left;" src="climate_net/img/CCfCS.png" width="100" />
+<img style="float: right;" src="climate_net/img/cam.png" width="100" />
+
+<br />
+
+<center> <h1> CCfCS ML for Climate Science Workshop - 23rd March 2022 </h1> </center>
+
+<body>
 
 ## Click to launch the notebooks using the integrated environent: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ira-Shokar/CCFCS-Machine-Learning-Workshop/HEAD)
 
@@ -26,3 +33,4 @@ To get a quick start guide on what Google Colab can offer click [here](https://c
 
 ## Click open the challenge notebook in Colab: [![Open Notebook 3. Intro into Deep Learning Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/main/notebooks/colab-github-demo.ipynb)
 
+</body>
