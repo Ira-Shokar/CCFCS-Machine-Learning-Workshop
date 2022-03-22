@@ -1,5 +1,5 @@
 <img style="float: left;" src="climate_net/img/CCfCS.png" width="100" />
-<img style="float: right;" src="climate_net/img/cam.png" width="100" />
+<img style="float: left;" src="climate_net/img/cam.png" width="100" />
 
 <br />
 
