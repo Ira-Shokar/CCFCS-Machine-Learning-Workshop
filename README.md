@@ -32,6 +32,6 @@ To get a quick start guide on what Google Colab can offer click [here](https://c
 
 ---
 
-## Click open the Machine Learning for Climate Science Challenge notebook in Colab: [![Open Notebook 3. Intro into Deep Learning Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ira-Shokar/CCFCS-Machine-Learning-Workshop/blob/main/4_ML_Challenge.ipynb)
+## Click open the Machine Learning for Climate Science Challenge notebook in Colab: [![Open Notebook 3. Intro into Deep Learning Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ira-Shokar/CCFCS-Machine-Learning-Workshop/blob/main/4_ML_challenge.ipynb)
 
 </body>
