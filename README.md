@@ -1,9 +1,9 @@
-<img style="float: left;" src="climate_net/img/CCfCS.png" width="100" />
-<img style="float: left;" src="climate_net/img/cam.png" width="100" />
+<p float="left">
+  <img src="climate_net/img/CCfCS.png" width="100" />
+  <img src="climate_net/img/cam.png" width="100" />
+</p>
 
-<br />
-
-<center> <h1> CCfCS ML for Climate Science Workshop - 23rd March 2022 </h1> </center>
+# CCfCS ML for Climate Science Workshop - 23rd March 2022
 
 <body>
 
