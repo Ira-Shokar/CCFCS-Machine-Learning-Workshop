@@ -7,9 +7,6 @@
 ## *23rd March 2022*
 
 <body>
-
-## Click to launch the notebooks using the integrated environent: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ira-Shokar/CCFCS-Machine-Learning-Workshop/HEAD)
-
 ---
 
 ## Add symbolic link to data, to be visible by Google Colab:
